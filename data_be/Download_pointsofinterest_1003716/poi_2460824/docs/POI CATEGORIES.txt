@@ -1,0 +1,53 @@
+category	category.name	Group Number Foreign Key
+1	Accommodation	1
+2	Eating And Drinking	1
+3	Construction Services	2
+4	Consultancies	2
+5	Employment And Career Agencies	2
+6	Engineering Services	2
+7	Contract Services	2
+8	"It, Advertising, Marketing And Media Services"	2
+9	Legal And Financial	2
+10	"Personal, Consumer And Other Services"	2
+11	Property And Development Services	2
+12	Recycling Services	2
+13	Repair And Servicing	2
+14	Research And Design	2
+15	"Transport, Storage And Delivery"	2
+16	Botanical And Zoological	3
+17	Historical And Cultural	3
+18	Recreational	3
+19	Landscape Features	3
+20	Tourism	3
+21	Sport And Entertainment Support Services	4
+22	Gambling	4
+23	Outdoor Pursuits	4
+24	Sports Complex	4
+25	"Venues, Stage And Screen"	4
+26	Animal Welfare	5
+27	Education Support Services	5
+28	Health Practitioners And Establishments	5
+29	Health Support Services	5
+31	"Primary, Secondary And Tertiary Education"	5
+32	Recreational And Vocational Education	5
+33	Central And Local Government	6
+34	Infrastructure And Facilities	6
+35	Organisations	6
+37	Consumer Products	7
+38	Extractive Industries	7
+39	Farming	7
+40	Foodstuffs	7
+41	Industrial Features	7
+42	Industrial Products	7
+46	Clothing And Accessories	9
+47	"Food, Drink And Multi Item Retail"	9
+48	"Household, Office, Leisure And Garden"	9
+49	Motoring	9
+53	Air	10
+54	Road And Rail	10
+55	Walking	10
+56	Water	10
+57	"Public Transport, Stations And Infrastructure"	10
+60	Hire Services	2
+58	Bodies Of Water	3
+59	Bus Transport	10
