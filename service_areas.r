@@ -264,10 +264,8 @@ mod_8 = lm(social_isolation_pc1 ~ count.mean.category +., data=newdata_mc)
 summary(mod_8)
 
 correlation_xvar <- as.data.frame(cor(newdata_mc, method = "pearson", use = "complete.obs"))
-vif8_27 <-  as.data.frame(car::vif(mod_8_27))
 
 vif8 <- as.data.frame(car::vif(mod_8))
-
 
 #without the highest count.mean
 
@@ -355,6 +353,7 @@ vif21 <- as.data.frame(car::vif(mod_21))
 mod_22  = lm(social_isolation_pc1 ~. -count.mean.category  -`10`   -`9` -`2` -`48` -`47` -`4` -`32` -`46` -`28` -`8` -`13` -`11` -`18`-`35`, data=newdata_mc)
 summary(mod_22)
 vif22 <- as.data.frame(car::vif(mod_22))
+
 
 
 #now add control variables and take out the high vif values
